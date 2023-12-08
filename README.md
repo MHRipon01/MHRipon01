@@ -20,7 +20,12 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MHRipon01&theme=blue-green&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496)](https://git.io/streak-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MHRipon01/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=bright_lights)
+<div style="text-align: center;">
+
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MHRipon01/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=bright_lights)
+
+<div/>
+
 
 
  
