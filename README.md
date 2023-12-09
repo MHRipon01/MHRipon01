@@ -27,7 +27,7 @@
 
 </div>
 
-#### 📈Current Stats
+<!-- #### 📈Current Stats -->
 <div align='center'>
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MHRipon01/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=bright_lights)
@@ -47,17 +47,17 @@
 </div>
 
 
- <div align='center'>
+ <!-- <div align='center'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MHRipon01&theme=github-dark-dimmed&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
-<div align='center'>
+<!-- <div align='center'>
 
-![Ripon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRipon01&show_icons=true&theme=transparent&hide=contribs,prs,issues,stars)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MHRipon01&show_icons=true&theme=transparent&hide=contribs,prs,issues,stars)
 
-</div>
+</div>  -->
 
 
 
