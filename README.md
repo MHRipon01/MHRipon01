@@ -13,7 +13,14 @@
 
 
 
+## Connect me:
+<div align="center>
 
+<a href="https://www.linkedin.com/in/md-mehedi-hasan-ripon-93508b1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripon" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/md-mehedi-hasan-ripon-93508b1b1/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="ripon" height="30" width="40" /></a>
+
+</div>
 
 
 
@@ -47,6 +54,11 @@
 </div>
 
 
+
+
+
+
+
  <!-- <div align='center'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MHRipon01&theme=github-dark-dimmed&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496)](https://git.io/streak-stats)
@@ -67,5 +79,6 @@
 👯 I’m looking - To collaborate on an open source project
 - ⚡ Fun fact - I love to solve puzzles and I can speak 4 languages.
 - 💬 Ask me about MERN 
+- 🕵️‍♀️ How to reach me: mhripon012@gmail.com
  
  
