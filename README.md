@@ -14,13 +14,11 @@
 
 
 ## Connect me:
-<div align="center>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/md-mehedi-hasan-ripon-93508b1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mehedi-hasan-ripon-93508b1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripon" height="30" width="40" /></a> <a href="https://twitter.com/MHRipon012" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="ripon" height="30" width="40" /></a>   <a href="mhripon012gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/MHRipon01/MHRipon01/main/images/gmail.png" alt="ripon" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/md-mehedi-hasan-ripon-93508b1b1/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="ripon" height="30" width="40" /></a>
-
-</div>
+</p>
 
 
 
