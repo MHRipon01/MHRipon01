@@ -1,7 +1,7 @@
 
  <div align='center'>
 
-[![An old rock in the desert](https://raw.githubusercontent.com/MHRipon01/MHRipon01/main/images/github%20design.gif "Shiprock, New Mexico by Beau Rogers")](https://twitter.com/MHRipon012)
+[![An old rock in the desert](https://raw.githubusercontent.com/MHRipon01/MHRipon01/main/images/github%20design.gif "Mehedi Hasan Ripon")](https://twitter.com/MHRipon012)
 
 </div>
 
